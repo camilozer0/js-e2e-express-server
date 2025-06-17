@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mazorra006/Azurepipelinelab/_apis/build/status%2Fcamilozer0.js-e2e-express-server?branchName=main)](https://dev.azure.com/mazorra006/Azurepipelinelab/_build/latest?definitionId=6&branchName=main)
 ---
 page_type: sample
 languages:
